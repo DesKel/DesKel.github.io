@@ -1,3 +1,9 @@
+#site-setting
+url: "https://deskel.github.io"
+github_repository: https://github.com/deskel
 theme: jekyll-theme-hacker
 title: Welcome to planet DesKel
 description: DesKel's official page for CTF write-up, Electronic tutorial, review and etc.
+
+#footer
+footer_left: <i class="fa fa-copyright"></i> 2020 DesKel
