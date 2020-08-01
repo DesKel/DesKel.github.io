@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to DesKel's official github page
 
-You can use the [editor on GitHub](https://github.com/DesKel/DesKel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello there, the purpose of this page serves as an archive for the  embeddedhacker.com. The reason is the upkeep for the previous site was pretty high (~ USD 200/year). Since the GitHub page offers a free hosting service for bloggers for personal write-up, I decided to migrate all the contents from the [embeddedhacker] (www.embeddedhacker.com) but it gonna take a while. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+** Migration progress: 0% **
 
 ### Markdown
 
