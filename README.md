@@ -1,5 +1,5 @@
 ## Electronic projects
-- [Arduino](https://deskel.github.io/Arduino)
+- [Arduino](https://deskel.github.io/arduino)
 
 ## CTF write-up
 - [THM, TryHackMe](https://www.embeddedhacker.com)
