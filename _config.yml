@@ -14,7 +14,7 @@ bio  : "Electronic and cybersecurity enthusiasm"
 
 #footer
 footer_left: 2020 DesKel
-footer_right: [Privacy Policy](https://deskel.github.io/privacy_policy)
+footer_right: Privacy Policy
 
 #plugin
 plugins:
