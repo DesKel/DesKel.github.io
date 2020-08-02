@@ -3,6 +3,7 @@ layout: post
 permalink: /privacy_policy
 title: "Privacy policy"
 date: 2020-08-02 12:00
+tags: policy
 ---
 
 My website is [Planet Deskel](https://deskel.github.io/) I’m an independent and privately owned publisher.
