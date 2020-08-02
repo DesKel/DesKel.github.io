@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 ## Electronic projects
 - [Arduino](https://deskel.github.io/arduino)
 
