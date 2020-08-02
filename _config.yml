@@ -14,3 +14,7 @@ bio  : "Electronic and cybersecurity enthusiasm"
 
 #footer
 footer_left: 2020 DesKel
+
+#plugin
+plugins:
+  - jekyll-sitemap
