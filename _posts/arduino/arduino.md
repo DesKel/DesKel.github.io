@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Arduino"
+permalink: /Arduino/test
+---
+
 # Arduino
 
 Arduino is an open-source electronics platform for building electronic projects in a much simpler way. More information on the [Arduino official website](https://www.arduino.cc/). This page divided into two sections, tutorial, and project.
