@@ -13,7 +13,8 @@ name : *name
 bio  : "Electronic and cybersecurity enthusiasm"
 
 #footer
-footer_left: 2020 DesKel
+footer: 2020 DesKel
+footer_privacy: [Privacy Policy](https://deskel.github.io/privacy_policy)
 
 #plugin
 plugins:
