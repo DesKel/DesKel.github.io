@@ -12,7 +12,7 @@ This section guides you through the Arduino project in detail way.
 
 Project | Description
 --------|------------
-DHT11 | Basic humidity sensor
+[DHT11](https://deskel.github.io/posts/arduino/DHT11) | Basic humidity sensor
 
 ## Project
 
