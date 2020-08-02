@@ -1,5 +1,6 @@
 ---
 layout: home
+description: "Welcome to planet DesKel, my official page for CTF write-up, Electronic tutorial, review and etc."
 ---
 
 ## Electronic projects

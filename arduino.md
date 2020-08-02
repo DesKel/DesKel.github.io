@@ -1,6 +1,7 @@
 ---
 layout: post
 permalink: /arduino/
+description: "Arduino full tutorial and proejct"
 title: "Arduino"
 ---
 

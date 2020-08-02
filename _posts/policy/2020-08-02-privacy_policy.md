@@ -3,6 +3,7 @@ layout: post
 permalink: /privacy_policy
 title: "Privacy policy"
 date: 2020-08-02 12:00
+description: "Planet DesKel privacy policy that user have to agree on"
 tags: policy
 ---
 
