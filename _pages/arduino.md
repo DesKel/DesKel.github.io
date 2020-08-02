@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /arduino
+permalink: /arduino/
 title: "Arduino"
 ---
 
