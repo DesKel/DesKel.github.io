@@ -5,6 +5,7 @@ theme: jekyll-theme-hacker
 title: Welcome to planet DesKel
 description: DesKel's official page for CTF write-up, Electronic tutorial, review and etc.
 name: &name "DesKel"
+show_downloads: false
 
 #site-author
 name : *name 
