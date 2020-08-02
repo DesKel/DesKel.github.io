@@ -6,6 +6,7 @@ title: Welcome to planet DesKel
 description: DesKel's official page for CTF write-up, Electronic tutorial, review and etc.
 name: &name "DesKel"
 show_downloads: false
+google_analytics: UA-174243586-1
 
 #site-author
 name : *name 
