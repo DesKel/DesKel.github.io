@@ -8,6 +8,10 @@ name: &name "DesKel"
 show_downloads: false
 google_analytics: UA-174243586-1
 
+#github page setting
+github:
+  is_project_page: false
+
 #site-author
 name : *name 
 bio  : "Electronic and cybersecurity enthusiasm"
