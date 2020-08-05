@@ -3,7 +3,7 @@ layout: post
 permalink: /posts/thm/simple-ctf
 title: "THM: Simple CTF"
 date: 2020-08-05 18:42
-tags: CTF nmap privilege_escalate sqli
+tags: CTF recon privilege_escalate sqli
 description: "Hello there, welcome to another short and simple CTF challenge write-up from tryhackme. This challenge involved with CVE number which is realistic."
 ---
 
