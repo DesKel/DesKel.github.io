@@ -9,8 +9,16 @@ TryHackMe is an online platform for learning and teaching cyber security, all th
 
 ## List of writeup
 
-### S
+### A-F
 
-Project | Description
+### G-L
+
+### M-R
+
+### S-X
+
+Writeup | Description
 --------|------------
 [Simple CTF](https://deskel.github.io/posts/thm/simple-ctf) | Beginner level ctf
+
+### Y-Z
