@@ -7,7 +7,7 @@ description: "Welcome to planet DesKel, my official page for CTF write-up, Elect
 - [Arduino](https://deskel.github.io/arduino)
 
 ## CTF write-up
-- [THM, TryHackMe](https://www.embeddedhacker.com)
+- [THM, TryHackMe](https://deskel.github.io/thm)
 - [CTFLearn](https://www.embeddedhacker.com)
 - [Backdoor](https://www.embeddedhacker.com)
 
