@@ -3,6 +3,10 @@ layout: home
 description: "Welcome to planet DesKel, my official page for CTF write-up, Electronic tutorial, review and etc."
 ---
 
+## Welcome to planet DesKel
+
+Hello there, welcome to my planet. Just for your information, this page was formerly known as embeddedhacker. 
+
 ## Electronic projects
 - [Arduino](https://deskel.github.io/arduino)
 
@@ -10,10 +14,6 @@ description: "Welcome to planet DesKel, my official page for CTF write-up, Elect
 - [THM, TryHackMe](https://deskel.github.io/thm)
 - [CTFLearn](https://www.embeddedhacker.com)
 - [Backdoor](https://www.embeddedhacker.com)
-
-## Welcome to planet DesKel
-
-Hello there, welcome to my planet. Just for your information, this page was formerly known as embeddedhacker. 
 
 ## About me
 
