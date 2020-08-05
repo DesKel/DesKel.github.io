@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<h1>Donate</h1>
+
+{{content}}
+
+<div id="paypal-button-container"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=AVENhDAUskV4EjnwvZV8wLQfIlrBz4mLyY-qqb4iFvB2mnE2MiQ3tYKd7BQ6F_DnKn8-fb9EqHcWphNn&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script>
+  paypal.Buttons({
+      style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+      },
+      createOrder: function(data, actions) {
+          return actions.order.create({
+              purchase_units: [{
+                  amount: {
+                      value: '1'
+                  }
+              }]
+          });
+      },
+      onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+              alert('Transaction completed by ' + details.payer.name.given_name + '!');
+          });
+      }
+  }).render('#paypal-button-container');
+</script>
+
+<hr>
+<footer style="float:left;"><small>&copy; {{ site.footer_left }}</small></footer>
+<footer style="float:right;"><small><a href="https://deskel.github.io/privacy_policy">{{ site.footer_right }}</a></small></footer>
