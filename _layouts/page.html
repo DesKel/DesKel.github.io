@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
+
+{{content}}
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+
+<hr>
+<footer style="float:left;"><small>&copy; {{ site.footer_left }}</small></footer>
+<footer style="float:right;"><small><a href="https://deskel.github.io/privacy_policy">{{ site.footer_right }}</a></small></footer>

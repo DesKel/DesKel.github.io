@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /arduino/
 description: "Arduino full tutorial and proejct"
 title: "Arduino"

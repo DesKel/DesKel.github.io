@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /thm/
 description: "This is a list of tryhackme CTF style writeup"
 title: "THM, Tryhackme"
