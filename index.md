@@ -7,21 +7,30 @@ description: "Welcome to planet DesKel, my official page for CTF write-up, Elect
 
 Hello there, welcome to my planet. Just for your information, this page was formerly known as embeddedhacker. 
 
+---
+
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+---
 
-## Electronic projects
+## Planet map
+
+### Electronic projects
 - [Arduino](https://deskel.github.io/arduino)
 
-## CTF write-up
+### CTF write-up
 - [THM, TryHackMe](https://deskel.github.io/thm)
 - [CTFLearn](https://www.embeddedhacker.com)
 - [Backdoor](https://www.embeddedhacker.com)
 
+--- 
+
 ## About me
 
 I'm an Electronic enthusiast who interested in all sorts of electronic projects, especially on the embedded system and wireless technology. Besides that, I'm also taking cybersecurity as a secondary interest.
+
+---
 
 ## A small note on embeddedhacker.com
 
