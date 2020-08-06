@@ -5,7 +5,7 @@ description: "This is a list of tryhackme CTF style writeup"
 title: "THM, Tryhackme"
 ---
 
-![logo](/assets/images/THM/logo.png){ width=25% }
+![logo](/assets/images/THM/logo.png | width=25%)
 
 TryHackMe is an online platform for learning and teaching cyber security, all through your browser. No download is required. Deploy the machine and you are good to go.
 
