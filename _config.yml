@@ -23,3 +23,4 @@ footer_right: Privacy Policy
 #plugin
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
