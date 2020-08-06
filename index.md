@@ -11,6 +11,10 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM: Boiler CTF](https://deskel.github.io/posts/thm/boiler-ctf)
+- [THM: Simple CTF](https://deskel.github.io/posts/thm/simple-ctf)
+- [Privacy policy](https://deskel.github.io/privacy_policy)
+- [DHT11](https://deskel.github.io/posts/arduino/DHT11)
 <!-- BLOG-POST-LIST:END -->
 ---
 
