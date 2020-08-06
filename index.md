@@ -7,6 +7,10 @@ description: "Welcome to planet DesKel, my official page for CTF write-up, Elect
 
 Hello there, welcome to my planet. Just for your information, this page was formerly known as embeddedhacker. 
 
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Electronic projects
 - [Arduino](https://deskel.github.io/arduino)
 
