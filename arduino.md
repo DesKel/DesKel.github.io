@@ -5,6 +5,8 @@ description: "Arduino full tutorial and proejct"
 title: "Arduino"
 ---
 
+<img alt="logo" src="/assets/images/arduino/logo.png" width="25%" />
+
 Arduino is an open-source electronics platform for building electronic projects in a much simpler way. More information on the [Arduino official website](https://www.arduino.cc/). This page divided into two sections, tutorial, and project.
 
 ## Tutorial
