@@ -22,7 +22,7 @@ Writeup | Description
 
 Writeup | Description
 --------|------------
-[Ignite CTF](https://deskel.github.io/posts/thm/ignite) | A new start-up has a few issues with their web server.
+[Ignite CTF](https://deskel.github.io/posts/thm/ignite-ctf) | A new start-up has a few issues with their web server.
 
 ### M-R
 
