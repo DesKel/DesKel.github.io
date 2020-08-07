@@ -14,8 +14,8 @@ Hello there, welcome to my planet. Just for your information, this page was form
 - [THM write-up: RP Web Scanning](https://deskel.github.io/posts/thm/rp-web-scanning)
 - [THM write-up: Ignite CTF](https://deskel.github.io/posts/thm/ignite-ctf)
 - [THM write-up: Basic Pentesting](https://deskel.github.io/posts/thm/basic-pentesting)
+- [THM write-up: RP PS Empire](https://deskel.github.io/posts/thm/rp-ps-empire)
 - [THM write-up: Boiler CTF](https://deskel.github.io/posts/thm/boiler-ctf)
-- [THM write-up: Simple CTF](https://deskel.github.io/posts/thm/simple-ctf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
