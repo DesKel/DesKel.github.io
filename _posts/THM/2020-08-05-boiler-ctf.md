@@ -3,8 +3,10 @@ layout: post
 permalink: /posts/thm/boiler-ctf
 title: "THM write-up: Boiler CTF"
 date: 2020-08-05 20:18
-tags: CTF recon privilege_escalate bases joomla_cms
+tags: tryhackme CTF recon privilege_escalate bases joomla_cms
 description: "This time I'm going to do a write-up on Boiler CTF. This is an intermediate CTF challenge. This room is written by MrSeth6797."
+categories:
+	- CTF
 ---
 
 ![titlecard](/assets/images/THM/2020-08-05-boiler-ctf/1.png)
