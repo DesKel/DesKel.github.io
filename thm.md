@@ -26,6 +26,10 @@ Writeup | Description
 
 ### M-R
 
+Writeup | Description
+--------|------------
+[RP: web scanning](https://deskel.github.io/posts/thm/rp-web-scanning) | Part of the Red Primer series, intro to web scanning.
+
 ### S-X
 
 Writeup | Description
