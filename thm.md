@@ -28,7 +28,8 @@ Writeup | Description
 
 Writeup | Description
 --------|------------
-[RP: web scanning](https://deskel.github.io/posts/thm/rp-web-scanning) | Part of the Red Primer series, intro to web scanning.
+[RP: PS Empire](https://deskel.github.io/posts/thm/rp-ps-empire) | Part of the Red Primer series, learn how to use this powerful post-exploitation framework.
+[RP: Web Scanning](https://deskel.github.io/posts/thm/rp-web-scanning) | Part of the Red Primer series, intro to web scanning.
 
 ### S-X
 
