@@ -27,6 +27,7 @@ Writeup | Description
 Writeup | Description
 --------|------------
 [Ignite CTF](https://deskel.github.io/posts/thm/ignite-ctf) | A new start-up has a few issues with their web server.
+[Library](https://deskel.github.io/posts/thm/library) | boot2root machine for FIT and bsides guatemala CTF
 
 ### M-R
 
