@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Thompson](https://deskel.github.io/posts/thm/thompson)
+- [THM write-up: Develpy](https://deskel.github.io/posts/thm/develpy)
 - [THM write-up: Dav](https://deskel.github.io/posts/thm/dav)
 - [THM write-up: Anonforce](https://deskel.github.io/posts/thm/anonforce)
 - [THM write-up: Library](https://deskel.github.io/posts/thm/library)
-- [THM write-up: Forensics](https://deskel.github.io/posts/thm/forensics)
-- [THM write-up: WebAppSec 101](https://deskel.github.io/posts/thm/webappsec-101)
 <!-- BLOG-POST-LIST:END -->
 
 ---
