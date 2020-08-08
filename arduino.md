@@ -13,9 +13,19 @@ Arduino is an open-source electronics platform for building electronic projects 
 
 This section guides you through the Arduino project in detail way. 
 
+### Beginner series
+
+Project | Description
+--------|-------------
+[Project 0: Introduction to Arduino](https://deskel.github.io/posts/arduino/tutorial/beginner/project-0) | Short introduction to Arduino
+
+### random tutorial
+
 Project | Description
 --------|------------
 [DHT11](https://deskel.github.io/posts/arduino/DHT11) | Basic humidity sensor
+
+---
 
 ## Project
 
