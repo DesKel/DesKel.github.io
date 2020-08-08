@@ -11,7 +11,7 @@ TryHackMe is an online platform for learning and teaching cyber security, all th
 
 ## List of writeup
 
-### A-F
+### A-C
 
 Writeup | Description
 --------|------------
@@ -21,6 +21,12 @@ Writeup | Description
 [c4ptur3-th3-fl4g](https://deskel.github.io/posts/thm/c4ptur3-th3-fl4g) | A beginner level CTF challenge
 [CaptureTheFlag](https://deskel.github.io/posts/thm/capture-the-flag) | A beginner level CTF
 [Crack The Hash](https://deskel.github.io/posts/thm/crack-the-hash) | Cracking hashes challenges
+
+### D-F
+
+Writeup | Description
+--------|------------
+[Dav](https://deskel.github.io/posts/thm/dav) | boot2root machine for FIT and bsides guatemala CTF
 [Forensics](https://deskel.github.io/posts/thm/forensics) | This is a memory dump of compromised system, do some forensics kung-fu to explore the inside.
 
 ### G-L
