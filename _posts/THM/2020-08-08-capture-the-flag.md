@@ -4,7 +4,7 @@ permalink: /posts/thm/capture-the-flag
 title: "THM write-up: CaptureTheFlag"
 date: 2020-08-08 12:37
 tags: tryhackme CTF recon stego reverse_engineer crypto 
-description: "This time I'm going to do a write-up on Boiler CTF. This is an intermediate CTF challenge. This room is written by MrSeth6797."
+description: "CTF or Capture the Flag is a special kind of information security competition. There are three common types of CTFs."
 ---
 
 ![titlecard](/assets/images/THM/2020-08-08-capture-the-flag/1.png)

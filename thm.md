@@ -19,6 +19,7 @@ Writeup | Description
 [Boiler CTF](https://deskel.github.io/posts/thm/boiler-ctf) | Intermediate level CTF
 [c4ptur3-th3-fl4g](https://deskel.github.io/posts/thm/c4ptur3-th3-fl4g) | A beginner level CTF challenge
 [CaptureTheFlag](https://deskel.github.io/posts/thm/capture-the-flag) | A beginner level CTF
+[Crack The Hash](https://deskel.github.io/posts/thm/crack-the-hash) | Cracking hashes challenges
 
 ### G-L
 
