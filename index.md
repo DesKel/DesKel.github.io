@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Crack The Hash](https://deskel.github.io/posts/thm/crack-the-hash)
+- [THM write-up: CaptureTheFlag](https://deskel.github.io/posts/thm/capture-the-flag)
 - [THM write-up: OhSINT](https://deskel.github.io/posts/thm/ohsint)
 - [THM write-up: Password Cracking](https://deskel.github.io/posts/thm/password-cracking)
 - [THM write-up: c4ptur3-th3-fl4g](https://deskel.github.io/posts/thm/c4ptur3-th3-fl4g)
-- [THM write-up: Vulnversity](https://deskel.github.io/posts/thm/vulnversity)
-- [THM write-up: StuxCTF](https://deskel.github.io/posts/thm/stux-ctf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
