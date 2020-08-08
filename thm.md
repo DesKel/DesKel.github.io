@@ -36,5 +36,10 @@ Writeup | Description
 Writeup | Description
 --------|------------
 [Simple CTF](https://deskel.github.io/posts/thm/simple-ctf) | Beginner level ctf
+[Tweety CTF](https://deskel.github.io/posts/thm/tweety-ctf) | The only hint is in the title
 
 ### Y-Z
+
+## THM badge
+
+<script src="https://tryhackme.com/badge/3051"></script>
