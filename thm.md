@@ -44,6 +44,7 @@ Writeup | Description
 [Simple CTF](https://deskel.github.io/posts/thm/simple-ctf) | Beginner level ctf
 [Tweety CTF](https://deskel.github.io/posts/thm/tweety-ctf) | The only hint is in the title
 [Vulnversity](https://deskel.github.io/posts/thm/vulnversity) | Learn about active recon, web app attacks and privilege escalation.
+[WebAppSec 101](https://deskel.github.io/posts/thm/webappsec-101) | In this room, we will walk through how to testing an application in the perspective of a hacker/penetration tester
 
 ### Y-Z
 
