@@ -18,6 +18,7 @@ This section guides you through the Arduino project in detail way.
 Project | Description
 --------|-------------
 [Project 0: Introduction to Arduino](https://deskel.github.io/posts/arduino/tutorial/beginner/project-0) | Short introduction to Arduino
+[Project 0: Blinking LED](https://deskel.github.io/posts/arduino/tutorial/beginner/project-1) | Simple LED blinking
 
 ### random tutorial
 
