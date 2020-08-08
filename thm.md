@@ -18,6 +18,7 @@ Writeup | Description
 [Basic Pentesting](https://deskel.github.io/posts/thm/basic-pentesting) | This is a machine that allows you to practise web app hacking and privilege escalation 
 [Boiler CTF](https://deskel.github.io/posts/thm/boiler-ctf) | Intermediate level CTF
 [c4ptur3-th3-fl4g](https://deskel.github.io/posts/thm/c4ptur3-th3-fl4g) | A beginner level CTF challenge
+[CaptureTheFlag](https://deskel.github.io/posts/thm/capture-the-flag) | A beginner level CTF
 
 ### G-L
 
