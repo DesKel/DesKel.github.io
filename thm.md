@@ -29,8 +29,8 @@ Writeup | Description
 
 Writeup | Description
 --------|------------
-[Password Cracking](https://deskel.github.io/posts/thm/password-cracking) | crack the password by using different techniques
 [OhSINT](https://deskel.github.io/posts/thm/ohsint) | Are you able to use open source intelligence to solve this challenge?
+[Password Cracking](https://deskel.github.io/posts/thm/password-cracking) | crack the password by using different techniques
 [RP: PS Empire](https://deskel.github.io/posts/thm/rp-ps-empire) | Part of the Red Primer series, learn how to use this powerful post-exploitation framework.
 [RP: Web Scanning](https://deskel.github.io/posts/thm/rp-web-scanning) | Part of the Red Primer series, intro to web scanning.
 
