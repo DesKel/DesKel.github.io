@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Vulnversity](https://deskel.github.io/posts/thm/vulnversity)
+- [THM write-up: StuxCTF](https://deskel.github.io/posts/thm/stux-ctf)
 - [THM write-up: Tweety CTF](https://deskel.github.io/posts/thm/tweety-ctf)
 - [THM write-up: RP Web Scanning](https://deskel.github.io/posts/thm/rp-web-scanning)
 - [THM write-up: Ignite CTF](https://deskel.github.io/posts/thm/ignite-ctf)
-- [THM write-up: Basic Pentesting](https://deskel.github.io/posts/thm/basic-pentesting)
-- [THM write-up: RP PS Empire](https://deskel.github.io/posts/thm/rp-ps-empire)
 <!-- BLOG-POST-LIST:END -->
 
 ---
