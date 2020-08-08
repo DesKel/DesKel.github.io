@@ -35,10 +35,13 @@ Writeup | Description
 
 Writeup | Description
 --------|------------
+[StuxCTF](https://deskel.github.io/posts/thm/stux-ctf) | Crypto, serealization, priv scalation and more ...! 
 [Simple CTF](https://deskel.github.io/posts/thm/simple-ctf) | Beginner level ctf
 [Tweety CTF](https://deskel.github.io/posts/thm/tweety-ctf) | The only hint is in the title
 
 ### Y-Z
+
+---
 
 ## THM badge
 
