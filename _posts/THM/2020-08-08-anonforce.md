@@ -7,7 +7,7 @@ tags: tryhackme CTF recon crack
 description: "Another day, another CTF writeup from tryhackme. This is my second boot2root writeup series. The challenge is easy."
 ---
 
-![titlecard](/assets/images/THM/2020-08-05-anonforce/1.png)
+![titlecard](/assets/images/THM/2020-08-08-anonforce/1.png)
 
 [Link: https://tryhackme.com/room/bsidesgtanonforce](https://tryhackme.com/room/bsidesgtanonforce)
 
@@ -27,15 +27,15 @@ nmap -A -v <MACHINE IP>
 
 In a jiff, you will be presented two open ports, specifically Port 21 (FTP) and Port 22 (SSH). Let's check the FTP port first.
 
-![nmap FTP](/assets/images/THM/2020-08-05-anonforce/2.png)
+![nmap FTP](/assets/images/THM/2020-08-08-anonforce/2.png)
 
-![nmap ssh](/assets/images/THM/2020-08-05-anonforce/3.png)
+![nmap ssh](/assets/images/THM/2020-08-08-anonforce/3.png)
 
-![FTP](/assets/images/THM/2020-08-05-anonforce/4.png)
+![FTP](/assets/images/THM/2020-08-08-anonforce/4.png)
 
 OMG., who the hell put the entire system folder inside the FTP. In addition, everyone can access the FTP server. Moral of the story, direct the Anon user to a specific FTP directory (not the whole system) or secure the FTP with a password. Enough of that, let's check the user flag inside the home directory.
 
-![user flag](/assets/images/THM/2020-08-05-anonforce/5.png)
+![user flag](/assets/images/THM/2020-08-08-anonforce/5.png)
 
 That's it, easy and straight forward.
 
@@ -45,9 +45,9 @@ That's it, easy and straight forward.
 
 There are tons of directory yet to be discovered. After a quick search, I come across an unusual filename called 'notread'.
 
-![GPG](/assets/images/THM/2020-08-05-anonforce/6.png)
+![GPG](/assets/images/THM/2020-08-08-anonforce/6.png)
 
-![notread](/assets/images/THM/2020-08-05-anonforce/7.png)
+![notread](/assets/images/THM/2020-08-08-anonforce/7.png)
 
 Inside the 'notread' directory, we have a PGP file and a private key. Download both files into your machine and let's import the private key using the following command.
 
@@ -55,7 +55,7 @@ Inside the 'notread' directory, we have a PGP file and a private key. Download b
 gpg --import private.asc
 ```
 
-![PGP prompt](/assets/images/THM/2020-08-05-anonforce/8.png)
+![PGP prompt](/assets/images/THM/2020-08-08-anonforce/8.png)
 
 Uh-oh, guess we need a password to access the key. Maybe Mr.john can help us out, I mean John the Ripple (JtR). Without further ado, export the key into the hash and run JtR.
 
@@ -64,11 +64,11 @@ gpg2john private.asc > hash
 john hash
 ```
 
-![crack](/assets/images/THM/2020-08-05-anonforce/9.png)
+![crack](/assets/images/THM/2020-08-08-anonforce/9.png)
 
 The password for the private key is 'xbox360'. After that, input the password to import the private key.
 
-![import](/assets/images/THM/2020-08-05-anonforce/10.png)
+![import](/assets/images/THM/2020-08-08-anonforce/10.png)
 
 Then, decrypt the backup.pgp file using the following command.
 
@@ -76,13 +76,13 @@ Then, decrypt the backup.pgp file using the following command.
 gpg --decrypt backup.pgp
 ```
 
-![prompt password](/assets/images/THM/2020-08-05-anonforce/11.png)
+![prompt password](/assets/images/THM/2020-08-08-anonforce/11.png)
 
 Once again, you will be prompt with another password field. Now, enter the 'xbox360' password into the field.
 
 #### 2) Crack the hash
 
-![decrypt](/assets/images/THM/2020-08-05-anonforce/12.png)
+![decrypt](/assets/images/THM/2020-08-08-anonforce/12.png)
 
 After decrypted the PGP file, a shadow file contains two users' hashed password shown on the terminal.
 
@@ -102,7 +102,7 @@ I am going to use my host computer to crack the hash because of the hashcat insi
 
 After a few seconds, you will be prompted with the cracked password which is hikari (mean light in Japanese).
 
-![More password](/assets/images/THM/2020-08-05-anonforce/13.png)
+![More password](/assets/images/THM/2020-08-08-anonforce/13.png)
 
 #### 3) Capture the flag
 
@@ -112,11 +112,11 @@ Meanwhile, can we crack melodias's hash? Nay, we can't. A root password should b
 ssh root@<Machine IP>
 ```
 
-![root](/assets/images/THM/2020-08-05-anonforce/14.png)
+![root](/assets/images/THM/2020-08-08-anonforce/14.png)
 
 Congratulation, you are now rooted in the machine. Let's check for the flag.
 
-![root flag](/assets/images/THM/2020-08-05-anonforce/15.png)
+![root flag](/assets/images/THM/2020-08-08-anonforce/15.png)
 
 ## Conclusion
 
