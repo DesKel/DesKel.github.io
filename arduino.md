@@ -11,7 +11,7 @@ Arduino is an open-source electronics platform for building electronic projects 
 
 ## Tutorial
 
-This section guides you through the Arduino project in detail way. 
+This section guides you through the Arduino project in detail way.
 
 ### Beginner series
 
@@ -19,6 +19,7 @@ Tutorial | Description
 --------|-------------
 [Tutorial 0: Introduction to Arduino](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-0) | Short introduction to Arduino
 [Tutorial 1: Blinking LED](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-1) | Simple LED blinking
+[Tutorial 2: Serial Communication](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-2) | How to serial communication in Arduino
 
 ### random tutorial
 
