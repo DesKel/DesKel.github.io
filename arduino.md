@@ -15,14 +15,14 @@ This section guides you through the Arduino project in detail way.
 
 ### Beginner series
 
-Project | Description
+Tutorial | Description
 --------|-------------
-[Project 0: Introduction to Arduino](https://deskel.github.io/posts/arduino/tutorial/beginner/project-0) | Short introduction to Arduino
-[Project 1: Blinking LED](https://deskel.github.io/posts/arduino/tutorial/beginner/project-1) | Simple LED blinking
+[Tutorial 0: Introduction to Arduino](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-0) | Short introduction to Arduino
+[Tutorial 1: Blinking LED](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-1) | Simple LED blinking
 
 ### random tutorial
 
-Project | Description
+Tutorial | Description
 --------|------------
 [DHT11](https://deskel.github.io/posts/arduino/DHT11) | Basic humidity sensor
 
