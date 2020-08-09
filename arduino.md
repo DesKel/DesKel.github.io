@@ -20,6 +20,7 @@ Tutorial | Description
 [Tutorial 0: Introduction to Arduino](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-0) | Short introduction to Arduino
 [Tutorial 1: Blinking LED](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-1) | Simple LED blinking
 [Tutorial 2: Serial Communication](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-2) | How to serial communication in Arduino
+[Tutorial 2: Pulse Width Modulation (PWM)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-3) | The concept of PWM
 
 ### random tutorial
 
