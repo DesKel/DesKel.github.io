@@ -5,7 +5,7 @@ description: "Welcome to planet DesKel, my official page for CTF write-up, Elect
 
 ## Welcome to planet DesKel
 
-Hello there, welcome to my planet. Just for your information, this page was formerly known as embeddedhacker. 
+Hello there, welcome to my planet. Just for your information, this page was formerly known as embeddedhacker.
 
 ---
 
@@ -30,7 +30,7 @@ Hello there, welcome to my planet. Just for your information, this page was form
 - [CTFLearn](https://www.embeddedhacker.com)
 - [Backdoor](https://www.embeddedhacker.com)
 
---- 
+---
 
 ## About me
 
@@ -40,7 +40,6 @@ I'm an Electronic enthusiast who interested in all sorts of electronic projects,
 
 ## A small note on embeddedhacker.com
 
-The purpose of this page serves as an archive and update for the embeddedhacker.com. The reason is the upkeep for the previous site was pretty high (~ USD 200/year). Since the GitHub page offers a free hosting service for bloggers, I decided to migrate all the contents from the [embeddedhacker](https://www.embeddedhacker.com). 
+The purpose of this page serves as an archive and update for the embeddedhacker.com. The reason is the upkeep for the previous site was pretty high (~ USD 200/year). Since the GitHub page offers a free hosting service for bloggers, I decided to migrate all the contents from the [embeddedhacker](https://www.embeddedhacker.com).
 
-**Migration progress: 24.42%**
-
+**Migration progress: 36.04%**
