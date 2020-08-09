@@ -23,6 +23,7 @@ Tutorial | Description
 [Tutorial 3: Pulse Width Modulation (PWM)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-3) | The concept of PWM
 [Tutorial 4: Push-button](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-4) | Operating a push button
 [Tutorial 5: Analog-to-Digital Conversion (ADC)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-5) | Learn the basic of ADC
+[Tutorial 6: Light Dependent Resistor (LDR)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-5) | A short introduction to LDR
 
 ### random tutorial
 
