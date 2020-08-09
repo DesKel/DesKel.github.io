@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [(Arduino Beginner tutorial) Project 1: Blinking LED](https://deskel.github.io/posts/arduino/tutorial/beginner/project-1)
-- [(Arduino Beginner tutorial) Project 0: Introduction to Arduino](https://deskel.github.io/posts/arduino/tutorial/beginner/project-0)
+- [(Arduino Beginner) Tutorial 3: Pulse Width Modulation (PWM)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-3)
+- [(Arduino Beginner) Tutorial 2: Serial Communication](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-2)
+- [(Arduino Beginner) Tutorial 1: Blinking LED](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-1)
+- [(Arduino Beginner) Tutorial 0: Introduction to Arduino](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-0)
 - [THM write-up: Thompson](https://deskel.github.io/posts/thm/thompson)
-- [THM write-up: Develpy](https://deskel.github.io/posts/thm/develpy)
-- [THM write-up: Dav](https://deskel.github.io/posts/thm/dav)
 <!-- BLOG-POST-LIST:END -->
 
 ---
