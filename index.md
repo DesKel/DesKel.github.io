@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [(Arduino Beginner) Tutorial 7: Finale](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-7)
+- [(Arduino Beginner) Tutorial 6: Light Dependent Resistor (LDR)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-6)
 - [(Arduino Beginner) Tutorial 5: Analog-to-Digital Conversion (ADC)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-5)
 - [(Arduino Beginner) Tutorial 4: Push-button](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-4)
 - [(Arduino Beginner) Tutorial 3: Pulse Width Modulation (PWM)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-3)
-- [(Arduino Beginner) Tutorial 2: Serial Communication](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-2)
-- [(Arduino Beginner) Tutorial 1: Blinking LED](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
