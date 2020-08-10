@@ -17,7 +17,7 @@ Writeup | Description
 --------|------------
 [Anonforce](https://deskel.github.io/posts/thm/anonforce) | boot2root machine for FIT and bsides guatemala CTF
 [Basic Pentesting](https://deskel.github.io/posts/thm/basic-pentesting) | This is a machine that allows you to practise web app hacking and privilege escalation
-[Basic Steganography](https://deskel.github.io/posts/thm/basic-pentesting) | A beginner introduction to steganography
+[Basic Steganography](https://deskel.github.io/posts/thm/basic-steganography) | A beginner introduction to steganography
 [Boiler CTF](https://deskel.github.io/posts/thm/boiler-ctf) | Intermediate level CTF
 [c4ptur3-th3-fl4g](https://deskel.github.io/posts/thm/c4ptur3-th3-fl4g) | A beginner level CTF challenge
 [CaptureTheFlag](https://deskel.github.io/posts/thm/capture-the-flag) | A beginner level CTF
