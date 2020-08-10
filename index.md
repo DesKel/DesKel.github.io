@@ -15,7 +15,7 @@ Hello there, welcome to my planet. Just for your information, this page was form
 - [THM write-up: GoldenEye](https://deskel.github.io/posts/thm/goldeneye)
 - [THM write-up: Basic Steganography](https://deskel.github.io/posts/thm/basic-steganography)
 - [THM write-up: Sputnik](https://deskel.github.io/posts/thm/sputnik)
-- [(Arduino Beginner) Tutorial 7: Finale](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-7)
+- [Toolrus](https://deskel.github.io/2020/08/10/toolrus.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
