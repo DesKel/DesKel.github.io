@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Pickle Rick](https://deskel.github.io/posts/thm/pickle-rick)
+- [THM write-up: GoldenEye](https://deskel.github.io/posts/thm/goldeneye)
 - [THM write-up: Basic Steganography](https://deskel.github.io/posts/thm/basic-steganography)
 - [THM write-up: Sputnik](https://deskel.github.io/posts/thm/sputnik)
 - [(Arduino Beginner) Tutorial 7: Finale](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-7)
-- [(Arduino Beginner) Tutorial 6: Light Dependent Resistor (LDR)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-6)
-- [(Arduino Beginner) Tutorial 5: Analog-to-Digital Conversion (ADC)](https://deskel.github.io/posts/arduino/tutorial/beginner/tutorial-5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
