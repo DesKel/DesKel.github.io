@@ -45,6 +45,7 @@ Writeup | Description
 --------|------------
 [OhSINT](https://deskel.github.io/posts/thm/ohsint) | Are you able to use open source intelligence to solve this challenge?
 [Password Cracking](https://deskel.github.io/posts/thm/password-cracking) | crack the password by using different techniques
+[Pickle Rick](/posts/thm/pickle-rick) | A Rick and Morty CTF. Help turn Rick back into a human!
 [RP: PS Empire](https://deskel.github.io/posts/thm/rp-ps-empire) | Part of the Red Primer series, learn how to use this powerful post-exploitation framework.
 [RP: Web Scanning](https://deskel.github.io/posts/thm/rp-web-scanning) | Part of the Red Primer series, intro to web scanning.
 
