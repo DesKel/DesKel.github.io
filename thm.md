@@ -30,12 +30,12 @@ Writeup | Description
 [Dav](https://deskel.github.io/posts/thm/dav) | boot2root machine for FIT and bsides guatemala CTF
 [Develpy](https://deskel.github.io/posts/thm/develpy) | boot2root machine for FIT and bsides Guatemala CTF
 [Forensics](https://deskel.github.io/posts/thm/forensics) | This is a memory dump of compromised system, do some forensics kung-fu to explore the inside.
-[GoldenEye](https://deskel.github.io/posts/thm/goldeneye) | Bond, James Bond. A guided CTF.
 
 ### G-L
 
 Writeup | Description
 --------|------------
+[GoldenEye](https://deskel.github.io/posts/thm/goldeneye) | Bond, James Bond. A guided CTF.
 [Ignite CTF](https://deskel.github.io/posts/thm/ignite-ctf) | A new start-up has a few issues with their web server.
 [Library](https://deskel.github.io/posts/thm/library) | boot2root machine for FIT and bsides guatemala CTF
 
