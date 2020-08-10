@@ -50,8 +50,9 @@ Writeup | Description
 
 Writeup | Description
 --------|------------
-[StuxCTF](https://deskel.github.io/posts/thm/stux-ctf) | Crypto, serealization, priv scalation and more ...!
 [Simple CTF](https://deskel.github.io/posts/thm/simple-ctf) | Beginner level ctf
+[Sputnik](https://deskel.github.io/posts/thm/sputnik) | A boot2root capture the flag.
+[StuxCTF](https://deskel.github.io/posts/thm/stux-ctf) | Crypto, serealization, priv scalation and more ...!
 [Thompson](https://deskel.github.io/posts/thm/thompson) | boot2root machine for FIT and bsides guatemala CTF
 [Tweety CTF](https://deskel.github.io/posts/thm/tweety-ctf) | The only hint is in the title
 [UltraTech](https://deskel.github.io/posts/thm/ultratech) | The basics of Penetration Testing, Enumeration, Privilege Escalation and WebApp testing
