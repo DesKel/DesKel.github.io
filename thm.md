@@ -19,6 +19,7 @@ Writeup | Description
 [Anonforce](/posts/thm/anonforce) | boot2root machine for FIT and bsides guatemala CTF
 [Basic Pentesting](/posts/thm/basic-pentesting) | This is a machine that allows you to practice web app hacking and privilege escalation
 [Basic Steganography](/posts/thm/basic-steganography) | A beginner introduction to steganography
+[Bebop](/posts/thm/bebop) | who thought making flying drone is easy
 [Boiler CTF](/posts/thm/boiler-ctf) | Intermediate level CTF
 [Break it](/posts/thm/break-it) | Can you break the code?
 [c4ptur3-th3-fl4g](/posts/thm/c4ptur3-th3-fl4g) | A beginner level CTF challenge
@@ -62,7 +63,7 @@ Writeup | Description
 [Scripting](/posts/thm/scripting) | Learn basic scripting
 [Simple CTF](/posts/thm/simple-ctf) | Beginner level ctf
 [Sputnik](/posts/thm/sputnik) | A boot2root capture the flag.
-[STEGOsaurus](/posts/thm/stegosaurus) | STEGOsaurus? More like STEGOception! ;) 
+[STEGOsaurus](/posts/thm/stegosaurus) | STEGOsaurus? More like STEGOception! ;)
 [StuxCTF](/posts/thm/stux-ctf) | Crypto, serealization, priv scalation and more ...!
 [Thompson](/posts/thm/thompson) | boot2root machine for FIT and bsides guatemala CTF
 [ToolsRus](/posts/thm/toolsrus) | Practice using tools
