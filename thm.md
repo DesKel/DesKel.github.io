@@ -16,7 +16,7 @@ TryHackMe is an online platform for learning and teaching cyber security, all th
 Writeup | Description
 --------|------------
 [Anonforce](/posts/thm/anonforce) | boot2root machine for FIT and bsides guatemala CTF
-[Basic Pentesting](/posts/thm/basic-pentesting) | This is a machine that allows you to practise web app hacking and privilege escalation
+[Basic Pentesting](/posts/thm/basic-pentesting) | This is a machine that allows you to practice web app hacking and privilege escalation
 [Basic Steganography](/posts/thm/basic-steganography) | A beginner introduction to steganography
 [Boiler CTF](/posts/thm/boiler-ctf) | Intermediate level CTF
 [c4ptur3-th3-fl4g](/posts/thm/c4ptur3-th3-fl4g) | A beginner level CTF challenge
@@ -57,6 +57,7 @@ Writeup | Description
 [Sputnik](/posts/thm/sputnik) | A boot2root capture the flag.
 [StuxCTF](/posts/thm/stux-ctf) | Crypto, serealization, priv scalation and more ...!
 [Thompson](/posts/thm/thompson) | boot2root machine for FIT and bsides guatemala CTF
+[ToolsRus](/posts/thm/toolsrus) | Practice using tools
 [Tweety CTF](/posts/thm/tweety-ctf) | The only hint is in the title
 [UltraTech](/posts/thm/ultratech) | The basics of Penetration Testing, Enumeration, Privilege Escalation and WebApp testing
 
