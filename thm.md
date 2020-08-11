@@ -70,6 +70,10 @@ Writeup | Description
 
 ### Y-Z
 
+Writeup | Description
+--------|------------
+[You Can't Solve This](/posts/thm/you-cant-solve-this) | For ages 9 - 12. CBBC themed. Epilepsy warning for the web server. Use WGET instead of the browser.
+
 ---
 
 ## THM badge
