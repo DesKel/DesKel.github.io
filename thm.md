@@ -39,6 +39,7 @@ Writeup | Description
 [Ignite CTF](/posts/thm/ignite-ctf) | A new start-up has a few issues with their web server.
 [KnockKnock](/posts/thm/knockknock) | Knock Knock who's there
 [Library](/posts/thm/library) | boot2root machine for FIT and bsides guatemala CTF
+[Linux Challenges](/posts/thm/linux-challenges) | Learn by completing linux challenges
 
 ### M-R
 
