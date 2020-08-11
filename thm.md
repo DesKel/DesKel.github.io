@@ -62,6 +62,7 @@ Writeup | Description
 [Scripting](/posts/thm/scripting) | Learn basic scripting
 [Simple CTF](/posts/thm/simple-ctf) | Beginner level ctf
 [Sputnik](/posts/thm/sputnik) | A boot2root capture the flag.
+[STEGOsaurus](/posts/thm/stegosaurus) | STEGOsaurus? More like STEGOception! ;) 
 [StuxCTF](/posts/thm/stux-ctf) | Crypto, serealization, priv scalation and more ...!
 [Thompson](/posts/thm/thompson) | boot2root machine for FIT and bsides guatemala CTF
 [ToolsRus](/posts/thm/toolsrus) | Practice using tools
