@@ -11,6 +11,12 @@ TryHackMe is an online platform for learning and teaching cyber security, all th
 
 ## List of writeup
 
+### Event challenge
+
+Writeup | Date | Description
+--------|------|------------
+[HackBack 2019](/posts/thm/hackback-2019) | 16 March 2019 | This is a clone of THM HackBack 2019 CTF event, which took place on 9th March.
+
 ### A-C
 
 Writeup | Description
