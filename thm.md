@@ -19,6 +19,7 @@ Writeup | Description
 [Basic Pentesting](/posts/thm/basic-pentesting) | This is a machine that allows you to practice web app hacking and privilege escalation
 [Basic Steganography](/posts/thm/basic-steganography) | A beginner introduction to steganography
 [Boiler CTF](/posts/thm/boiler-ctf) | Intermediate level CTF
+[Break it](/posts/thm/break-it) | Can you break the code?
 [c4ptur3-th3-fl4g](/posts/thm/c4ptur3-th3-fl4g) | A beginner level CTF challenge
 [CaptureTheFlag](/posts/thm/capture-the-flag) | A beginner level CTF
 [Crack The Hash](/posts/thm/crack-the-hash) | Cracking hashes challenges
