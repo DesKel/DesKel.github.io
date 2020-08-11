@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Break It](https://deskel.github.io/posts/thm/break-it)
+- [THM write-up: JoyStick](https://deskel.github.io/posts/thm/joystick)
 - [THM write-up: Linux Challenges](https://deskel.github.io/posts/thm/linux-challenges)
 - [THM write-up: KnockKnock](https://deskel.github.io/posts/thm/knockknock)
 - [THM write-up: You Can’t Solve This](https://deskel.github.io/posts/thm/you-cant-solve-this)
-- [THM write-up: ToolsRus](https://deskel.github.io/posts/thm/toolsrus)
-- [THM write-up: Pickle Rick](https://deskel.github.io/posts/thm/pickle-rick)
 <!-- BLOG-POST-LIST:END -->
 
 ---
