@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Bebop](https://deskel.github.io/posts/thm/bebop)
+- [THM write-up: STEGOsaurus](https://deskel.github.io/posts/thm/stegosaurus)
 - [THM write-up: Jurassic Park](https://deskel.github.io/posts/thm/jurassic-park)
 - [THM write-up: Scripting](https://deskel.github.io/posts/thm/scripting)
 - [THM write-up: Adventure Time](https://deskel.github.io/posts/thm/adventure-time)
-- [THM write-up: Break It](https://deskel.github.io/posts/thm/break-it)
-- [THM write-up: JoyStick](https://deskel.github.io/posts/thm/joystick)
 <!-- BLOG-POST-LIST:END -->
 
 ---
