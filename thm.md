@@ -58,6 +58,7 @@ Writeup | Description
 
 Writeup | Description
 --------|------------
+[Scripting](/posts/thm/scripting) | Learn basic scripting
 [Simple CTF](/posts/thm/simple-ctf) | Beginner level ctf
 [Sputnik](/posts/thm/sputnik) | A boot2root capture the flag.
 [StuxCTF](/posts/thm/stux-ctf) | Crypto, serealization, priv scalation and more ...!
