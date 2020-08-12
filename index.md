@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Wgel CTF](https://deskel.github.io/posts/thm/wgel-ctf)
 - [THM write-up: LaxCTF](https://deskel.github.io/posts/thm/laxctf)
 - [Challenge Land write-up: Steganography](https://deskel.github.io/posts/challengeland/steganography)
 - [Challenge Land write-up: Basic](https://deskel.github.io/posts/challengeland/basic)
 - [Challenge Land write-up: Login](https://deskel.github.io/posts/challengeland/login)
-- [THM write-up: Hacking with Powershell](https://deskel.github.io/posts/thm/hacking-with-powershell)
 <!-- BLOG-POST-LIST:END -->
 
 ---
