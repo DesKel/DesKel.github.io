@@ -40,16 +40,22 @@ Writeup | Description
 [Develpy](/posts/thm/develpy) | boot2root machine for FIT and bsides Guatemala CTF
 [Forensics](/posts/thm/forensics) | This is a memory dump of compromised system, do some forensics kung-fu to explore the inside.
 
-### G-L
+### G-I
 
 Writeup | Description
 --------|------------
 [GoldenEye](/posts/thm/goldeneye) | Bond, James Bond. A guided CTF.
-[Ignite CTF](/posts/thm/ignite-ctf) | A new start-up has a few issues with their web server.
 [Hacking with Powershell](/posts/thm/hacking-with-powershell) | Learn the basic of Powershell
+[Ignite CTF](/posts/thm/ignite-ctf) | A new start-up has a few issues with their web server.
+
+### J-L
+
+Writeup | Description
+--------|------------
 [JoyStick](/posts/thm/joystick) | Anyone want to play?
 [Jurassic Park](/posts/thm/jurassic-park) | A Jurassic Park CTF
 [KnockKnock](/posts/thm/knockknock) | Knock Knock who's there
+[LaxCTF](/posts/thm/laxctf) | Try Harder!
 [Library](/posts/thm/library) | boot2root machine for FIT and bsides guatemala CTF
 [Linux Challenges](/posts/thm/linux-challenges) | Learn by completing linux challenges
 
