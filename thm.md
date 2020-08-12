@@ -46,6 +46,7 @@ Writeup | Description
 --------|------------
 [GoldenEye](/posts/thm/goldeneye) | Bond, James Bond. A guided CTF.
 [Ignite CTF](/posts/thm/ignite-ctf) | A new start-up has a few issues with their web server.
+[Hacking with Powershell](/posts/thm/hacking-with-powershell) | Learn the basic of Powershell
 [JoyStick](/posts/thm/joystick) | Anyone want to play?
 [Jurassic Park](/posts/thm/jurassic-park) | A Jurassic Park CTF
 [KnockKnock](/posts/thm/knockknock) | Knock Knock who's there
