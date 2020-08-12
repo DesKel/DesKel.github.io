@@ -89,6 +89,7 @@ Writeup | Description
 --------|------------
 [Vulnversity](/posts/thm/vulnversity) | Learn about active recon, web app attacks and privilege escalation.
 [WebAppSec 101](/posts/thm/webappsec-101) | In this room, we will walk through how to testing an application in the perspective of a hacker/penetration tester
+[Wgel CTF](/posts/thm/wgel-ctf) | Can you exfiltrate the root flag?
 
 ### Y-Z
 
