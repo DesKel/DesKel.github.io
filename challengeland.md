@@ -13,4 +13,5 @@ The Challenge Land is an RPG or JPRG inspired wargame challenge where the challe
 
 Writeup | Description
 --------|------------
+[Basic](/posts/challengeland/basic) | Challenge Land basic challenge
 [Login](/posts/challengeland/login) | A guide to register yourself in Challenge Land
