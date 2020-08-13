@@ -15,6 +15,7 @@ CTFLearn is another site to sharpen up your hacking skill. Just like hackthissit
 
 Writeup | Description | Last update
 --------|-------------|---------
+[Binary](/posts/thm/binary-easy) | Binary easy level | 4 November 2019
 [Cryptography](/posts/thm/cryptography-easy) | Cryptography easy level | 25 October 2019
 
 ### Medium
