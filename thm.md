@@ -17,16 +17,22 @@ Writeup | Date | Description
 --------|------|------------
 [HackBack 2019](/posts/thm/hackback-2019) | 9 March 2019 | This is a clone of THM HackBack 2019 CTF event, which took place on 9th March.
 
-### A-C
+### A
 
 Writeup | Description
 --------|------------
 [Adventure Time](/posts/thm/adventure-time) | A CTF based challenge to get your blood pumping...
 [Anonforce](/posts/thm/anonforce) | boot2root machine for FIT and bsides guatemala CTF
+
+### B-C
+
+Writeup | Description
+--------|------------
 [Basic Pentesting](/posts/thm/basic-pentesting) | This is a machine that allows you to practice web app hacking and privilege escalation
 [Basic Steganography](/posts/thm/basic-steganography) | A beginner introduction to steganography
 [Bebop](/posts/thm/bebop) | who thought making flying drone is easy
 [Boiler CTF](/posts/thm/boiler-ctf) | Intermediate level CTF
+[Borderlands](/posts/thm/borderlands) | Compromise a perimeter host and pivot through this network.
 [Break it](/posts/thm/break-it) | Can you break the code?
 [c4ptur3-th3-fl4g](/posts/thm/c4ptur3-th3-fl4g) | A beginner level CTF challenge
 [CaptureTheFlag](/posts/thm/capture-the-flag) | A beginner level CTF
