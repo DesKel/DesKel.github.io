@@ -14,8 +14,8 @@ Hello there, welcome to my planet. Just for your information, this page was form
 - [THM write-up: Intro to Windows BoF](https://deskel.github.io/posts/thm/intro-to-windows-bof)
 - [THM write-up: Borderlands](https://deskel.github.io/posts/thm/borderlands)
 - [THM write-up: HA Joker CTF](https://deskel.github.io/posts/thm/ha-joker-ctf)
+- [CTFLearn write-up: Binary (Easy)](https://deskel.github.io/posts/thm/binary-easy)
 - [THM write-up: Wgel CTF](https://deskel.github.io/posts/thm/wgel-ctf)
-- [THM write-up: LaxCTF](https://deskel.github.io/posts/thm/laxctf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
