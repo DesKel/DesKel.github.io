@@ -66,6 +66,7 @@ Writeup | Description
 [LaxCTF](/posts/thm/laxctf) | Try Harder!
 [Library](/posts/thm/library) | boot2root machine for FIT and bsides guatemala CTF
 [Linux Challenges](/posts/thm/linux-challenges) | Learn by completing linux challenges
+[Linux Privesc Playground](/posts/thm/linux-privesc-playground) | A linux privilege escalation room
 
 ### M-R
 
