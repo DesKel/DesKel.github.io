@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Blueprint](https://deskel.github.io/posts/thm/blueprint)
 - [THM write-up: Linux Privesc Playground](https://deskel.github.io/posts/thm/linux-privesc-playground)
 - [THM write-up: Intro to Windows BoF](https://deskel.github.io/posts/thm/intro-to-windows-bof)
 - [THM write-up: Borderlands](https://deskel.github.io/posts/thm/borderlands)
 - [THM write-up: HA Joker CTF](https://deskel.github.io/posts/thm/ha-joker-ctf)
-- [CTFLearn write-up: Binary (Easy)](https://deskel.github.io/posts/thm/binary-easy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
