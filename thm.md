@@ -45,6 +45,7 @@ Writeup | Description
 --------|------------
 [Dav](/posts/thm/dav) | boot2root machine for FIT and bsides guatemala CTF
 [Develpy](/posts/thm/develpy) | boot2root machine for FIT and bsides Guatemala CTF
+[djinn](/posts/thm/djinn) | Intermediate level vulnerable box.
 [Forensics](/posts/thm/forensics) | This is a memory dump of compromised system, do some forensics kung-fu to explore the inside.
 
 ### G-I
