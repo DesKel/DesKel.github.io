@@ -70,13 +70,19 @@ Writeup | Description
 [Linux Challenges](/posts/thm/linux-challenges) | Learn by completing linux challenges
 [Linux Privesc Playground](/posts/thm/linux-privesc-playground) | A linux privilege escalation room
 
-### M-R
+### M-Q
 
 Writeup | Description
 --------|------------
 [OhSINT](/posts/thm/ohsint) | Are you able to use open source intelligence to solve this challenge?
 [Password Cracking](/posts/thm/password-cracking) | crack the password by using different techniques
 [Pickle Rick](/posts/thm/pickle-rick) | A Rick and Morty CTF. Help turn Rick back into a human!
+[Plathora](/posts/thm/plathora) | eginner CTF with a plethora of vulnerabilities
+
+### R
+
+Writeup | Description
+--------|------------
 [Reverse ELF](/posts/thm/reversing-elf) | Room for beginner Reverse Engineering CTF players
 [Reverse Engineering](/posts/thm/reverse-engineering) | This room focuses on teaching the basics of assembly through reverse engineering
 [RP: PS Empire](/posts/thm/rp-ps-empire) | Part of the Red Primer series, learn how to use this powerful post-exploitation framework.
