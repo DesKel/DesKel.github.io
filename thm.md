@@ -77,7 +77,7 @@ Writeup | Description
 [OhSINT](/posts/thm/ohsint) | Are you able to use open source intelligence to solve this challenge?
 [Password Cracking](/posts/thm/password-cracking) | crack the password by using different techniques
 [Pickle Rick](/posts/thm/pickle-rick) | A Rick and Morty CTF. Help turn Rick back into a human!
-[Plathora](/posts/thm/plathora) | eginner CTF with a plethora of vulnerabilities
+[Plathora](/posts/thm/plathora) | Beginner CTF with a plethora of vulnerabilities
 
 ### R
 
