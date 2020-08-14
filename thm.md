@@ -31,6 +31,7 @@ Writeup | Description
 [Basic Pentesting](/posts/thm/basic-pentesting) | This is a machine that allows you to practice web app hacking and privilege escalation
 [Basic Steganography](/posts/thm/basic-steganography) | A beginner introduction to steganography
 [Bebop](/posts/thm/bebop) | who thought making flying drone is easy
+[Blueprint](/posts/thm/blueprint) | Hack into this Windows machine and escalate your privileges to Administrator.
 [Boiler CTF](/posts/thm/boiler-ctf) | Intermediate level CTF
 [Borderlands](/posts/thm/borderlands) | Compromise a perimeter host and pivot through this network.
 [Break it](/posts/thm/break-it) | Can you break the code?
