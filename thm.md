@@ -78,6 +78,7 @@ Writeup | Description
 [Password Cracking](/posts/thm/password-cracking) | crack the password by using different techniques
 [Pickle Rick](/posts/thm/pickle-rick) | A Rick and Morty CTF. Help turn Rick back into a human!
 [Reverse ELF](/posts/thm/reversing-elf) | Room for beginner Reverse Engineering CTF players
+[Reverse Engineering](/posts/thm/reverse-engineering) | This room focuses on teaching the basics of assembly through reverse engineering
 [RP: PS Empire](/posts/thm/rp-ps-empire) | Part of the Red Primer series, learn how to use this powerful post-exploitation framework.
 [RP: Web Scanning](/posts/thm/rp-web-scanning) | Part of the Red Primer series, intro to web scanning.
 
