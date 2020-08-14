@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [THM write-up: Reverse Engineering](https://deskel.github.io/posts/thm/reverse-engineering)
+- [THM write-up: djinn](https://deskel.github.io/posts/thm/djinn)
 - [THM write-up: Reversing ELF](https://deskel.github.io/posts/thm/reversing-elf)
 - [THM write-up: Blueprint](https://deskel.github.io/posts/thm/blueprint)
 - [THM write-up: Linux Privesc Playground](https://deskel.github.io/posts/thm/linux-privesc-playground)
-- [THM write-up: Intro to Windows BoF](https://deskel.github.io/posts/thm/intro-to-windows-bof)
-- [THM write-up: Borderlands](https://deskel.github.io/posts/thm/borderlands)
 <!-- BLOG-POST-LIST:END -->
 
 ---
