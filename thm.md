@@ -37,6 +37,7 @@ Writeup | Description
 [Break it](/posts/thm/break-it) | Can you break the code?
 [c4ptur3-th3-fl4g](/posts/thm/c4ptur3-th3-fl4g) | A beginner level CTF challenge
 [CaptureTheFlag](/posts/thm/capture-the-flag) | A beginner level CTF
+[CC Pen Testing](/posts/thm/cc-pen-testing) | A crash course on various topics in penetration testing
 [Crack The Hash](/posts/thm/crack-the-hash) | Cracking hashes challenges
 
 ### D-F
