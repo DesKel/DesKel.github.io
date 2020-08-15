@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Des’s review: [OSINT] DeadTrap](https://deskel.github.io/posts/hacking-tools/osint/deadtrap)
+- [Des’s review: [OSINT] UserRecon](https://deskel.github.io/posts/hacking-tools/osint/userrecon)
+- [Des’s review: [DoS] Impulse](https://deskel.github.io/posts/hacking-tools/dos/impulse)
 - [Des’s review: BadUSB - an Arduino based keystroke](https://deskel.github.io/posts/hacking-tools/hardware/badusb)
 - [CTFLearn write-up: Cryptography (Medium)](https://deskel.github.io/posts/ctflearn/cryptography-medium)
-- [CTFLearn write-up: Binary (Medium)](https://deskel.github.io/posts/ctflearn/binary-medium)
-- [CTFLearn write-up: Forensics (Medium)](https://deskel.github.io/posts/ctflearn/forensics-medium)
-- [CTFLearn write-up: Web (Medium)](https://deskel.github.io/posts/ctflearn/web-medium)
 <!-- BLOG-POST-LIST:END -->
 
 ---
