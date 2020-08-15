@@ -16,6 +16,7 @@ TryHackMe is an online platform for learning and teaching cyber security, all th
 Writeup | Date | Description
 --------|------|------------
 [HackBack 2019](/posts/thm/hackback-2019) | 9 March 2019 | This is a clone of THM HackBack 2019 CTF event, which took place on 9th March.
+[Advent of Cyber](/posts/thm/advent-of-cyber) | 1 December 2019 | Get started with Cyber Security in 25 Days - Learn the basics by doing a new, beginner friendly security challenge every day leading up to Christmas.
 
 ### A
 
