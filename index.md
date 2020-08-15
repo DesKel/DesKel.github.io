@@ -32,7 +32,7 @@ Hello there, welcome to my planet. Just for your information, this page was form
 - [THM, TryHackMe](https://deskel.github.io/thm)
 
 ### Des's review
--[Hacking tools](https://deskel.github.io/hacking-tools)
+- [Hacking tools](https://deskel.github.io/hacking-tools)
 
 ---
 
