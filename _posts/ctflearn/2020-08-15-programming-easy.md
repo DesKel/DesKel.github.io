@@ -15,7 +15,7 @@ Howdy there, welcome to another CTFLearn write-up. Today, we are going through a
 
 Copy the following script and run it with python 2 or 3. All the explanations are on the script.
 
-```
+```python
 # initiate the parameters
 count = 0
 file = 'data.dat'
@@ -38,4 +38,4 @@ f.close()
 
 ## Conclusion
 
-That's all for the simple programming on CTFlearn. The post will be updated once I found another new task. See ya :) 
+That's all for the simple programming on CTFlearn. The post will be updated once I found another new task. See ya :)
