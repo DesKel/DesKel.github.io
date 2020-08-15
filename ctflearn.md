@@ -22,7 +22,10 @@ Writeup | Description | Last update
 [Programming](/posts/ctflearn/programming-easy) | Programming easy level | 30 December 2019
 [Web](/posts/ctflearn/web-easy) | Web easy level | 30 December 2019
 
-
 ### Medium
+
+Writeup | Description | Last update
+--------|-------------|---------
+[Web](/posts/ctflearn/web-medium) | Web medium level | 1 January 2020
 
 ### hard
