@@ -17,6 +17,7 @@ Writeup | Description | Last update
 --------|-------------|---------
 [Binary](/posts/thm/binary-easy) | Binary easy level | 4 November 2019
 [Cryptography](/posts/thm/cryptography-easy) | Cryptography easy level | 25 October 2019
+[Forensics](/posts/thm/forensics-easy) | Forensics easy level | 30 December 2019
 
 ### Medium
 
