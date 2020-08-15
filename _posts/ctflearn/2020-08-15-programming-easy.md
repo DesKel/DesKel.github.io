@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /posts/thm/programming-easy
+permalink: /posts/ctflearn/programming-easy
 title: "CTFLearn write-up: Programming (Easy)"
 date: 2020-08-15 18:12
 tags: ctflearn CTF programming

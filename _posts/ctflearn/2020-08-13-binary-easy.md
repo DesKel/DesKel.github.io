@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /posts/thm/binary-easy
+permalink: /posts/ctflearn/binary-easy
 title: "CTFLearn write-up: Binary (Easy)"
 date: 2020-08-15 18:12
 tags: ctflearn CTF binary

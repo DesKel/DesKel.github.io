@@ -15,12 +15,12 @@ CTFLearn is another site to sharpen up your hacking skill. Just like hackthissit
 
 Writeup | Description | Last update
 --------|-------------|---------
-[Binary](/posts/thm/binary-easy) | Binary easy level | 4 November 2019
-[Cryptography](/posts/thm/cryptography-easy) | Cryptography easy level | 25 October 2019
-[Forensics](/posts/thm/forensics-easy) | Forensics easy level | 30 December 2019
-[Misc](/posts/thm/misc-easy) | Misc | 30 December 2019
-[Programming](/posts/thm/programming-easy) | Programming easy level | 30 December 2019
-[Web](/posts/thm/web-easy) | Web easy level | 30 December 2019
+[Binary](/posts/ctflearn/binary-easy) | Binary easy level | 4 November 2019
+[Cryptography](/posts/ctflearn/cryptography-easy) | Cryptography easy level | 25 October 2019
+[Forensics](/posts/ctflearn/forensics-easy) | Forensics easy level | 30 December 2019
+[Misc](/posts/ctflearn/misc-easy) | Misc easy level | 30 December 2019
+[Programming](/posts/ctflearn/programming-easy) | Programming easy level | 30 December 2019
+[Web](/posts/ctflearn/web-easy) | Web easy level | 30 December 2019
 
 
 ### Medium

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /posts/thm/forensics-easy
+permalink: /posts/ctflearn/forensics-easy
 title: "CTFLearn write-up: Forensics (Easy)"
 date: 2020-08-15 18:12
 tags: ctflearn CTF forensics
