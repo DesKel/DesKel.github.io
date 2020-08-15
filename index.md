@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Des’s review: BadUSB - an Arduino based keystroke](https://deskel.github.io/posts/hacking-tools/hardware/badusb)
+- [CTFLearn write-up: Cryptography (Medium)](https://deskel.github.io/posts/ctflearn/cryptography-medium)
 - [CTFLearn write-up: Binary (Medium)](https://deskel.github.io/posts/ctflearn/binary-medium)
 - [CTFLearn write-up: Forensics (Medium)](https://deskel.github.io/posts/ctflearn/forensics-medium)
 - [CTFLearn write-up: Web (Medium)](https://deskel.github.io/posts/ctflearn/web-medium)
-- [CTFLearn write-up: Misc (Easy)](https://deskel.github.io/posts/ctflearn/misc-easy)
-- [CTFLearn write-up: Web (Easy)](https://deskel.github.io/posts/ctflearn/web-easy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
