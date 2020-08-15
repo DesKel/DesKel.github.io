@@ -27,6 +27,7 @@ Writeup | Description | Last update
 Writeup | Description | Last update
 --------|-------------|---------
 [Binary](/posts/ctflearn/binary-medium) | Binary medium level | 1 January 2020
+[Cryptography](/posts/ctflearn/cryptography-medium) | Cryptography | 2 January 2020
 [Forensics](/posts/ctflearn/forensics-medium) | Forensics medium level | 1 January 2020
 [Web](/posts/ctflearn/web-medium) | Web medium level | 1 January 2020
 
