@@ -26,6 +26,7 @@ Writeup | Description | Last update
 
 Writeup | Description | Last update
 --------|-------------|---------
+[Forensics](/posts/ctflearn/forensics-medium) | Forensics medium level | 1 January 2020
 [Web](/posts/ctflearn/web-medium) | Web medium level | 1 January 2020
 
 ### hard
