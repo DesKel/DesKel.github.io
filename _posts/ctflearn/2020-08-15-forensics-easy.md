@@ -2,6 +2,7 @@
 layout: post
 permalink: /posts/thm/forensics-easy
 title: "CTFLearn write-up: Forensics (Easy)"
+date: 2020-08-15 18:12
 tags: ctflearn CTF forensics
 description: "Welcome to another CTFLearn write-up. Today, we will go through the easy Forensics and most of the tasks contain basic steganography. Enjoy!"
 ---

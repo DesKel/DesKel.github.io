@@ -2,6 +2,7 @@
 layout: post
 permalink: /posts/thm/binary-easy
 title: "CTFLearn write-up: Binary (Easy)"
+date: 2020-08-15 18:12
 tags: ctflearn CTF binary
 description: "Today, we are going for an easy binary challenge. For your information, there is only 1 task on easy mode, it going to be a short walkthrough."
 ---

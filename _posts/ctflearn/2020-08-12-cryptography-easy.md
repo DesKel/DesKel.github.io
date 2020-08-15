@@ -2,6 +2,7 @@
 layout: post
 permalink: /posts/thm/cryptography-easy
 title: "CTFLearn write-up: Cryptography (Easy)"
+date: 2020-08-15 18:12
 tags: ctflearn CTF cryptography
 description: "This is a whole new CTF series. For this post, I'm am going to walk through all the easy level cryptography."
 ---
