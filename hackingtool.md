@@ -2,7 +2,7 @@
 layout: page
 permalink: /hacking-tools/
 description: "This is a list of DesKel's hacking tools review"
-title: "THM, Tryhackme"
+title: "Hacking tools"
 ---
 
 <img alt="logo" src="/assets/images/hacking-tools/logo.png" width="25%" />
