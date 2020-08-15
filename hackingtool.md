@@ -11,5 +11,5 @@ This is my review and/or introductory page for the hacking tools that available 
 
 ## hardware
 Topic | Description
---------|------------
+------|------------
 [badUSB](/posts/hacking-tools/hardware/badusb) | Dangerous USB that allows attackers to inject malicious command-line.
