@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [THM write-up: Advent of Cyber](https://deskel.github.io/posts/thm/advent-of-cyber)
-- [THM write-up: CC Pen Testing](https://deskel.github.io/posts/thm/cc-pen-testing)
-- [THM write-up: hc0n Christmas CTF](https://deskel.github.io/posts/thm/hc0n-christmas-ctf)
-- [THM write-up: Plathora](https://deskel.github.io/posts/thm/plathora)
-- [THM write-up: Reverse Engineering](https://deskel.github.io/posts/thm/reverse-engineering)
+- [CTFLearn write-up: Web (Medium)](https://deskel.github.io/posts/ctflearn/web-medium)
+- [CTFLearn write-up: Misc (Easy)](https://deskel.github.io/posts/ctflearn/misc-easy)
+- [CTFLearn write-up: Web (Easy)](https://deskel.github.io/posts/ctflearn/web-easy)
+- [CTFLearn write-up: Cryptography (Easy)](https://deskel.github.io/posts/ctflearn/cryptography-easy)
+- [CTFLearn write-up: Binary (Easy)](https://deskel.github.io/posts/ctflearn/binary-easy)
 <!-- BLOG-POST-LIST:END -->
 
 ---
