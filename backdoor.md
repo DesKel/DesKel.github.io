@@ -5,7 +5,7 @@ description: "This is a list of backdoor CTF style writeup"
 title: "Backdoor"
 ---
 
-<img alt="logo" src="/assets/images/backdoor/logo.png" width="50%" />
+<img alt="logo" src="/assets/images/backdoor/logo.png" width="35%" />
 
 Backdoor was created by the Indian Institute of Technology (IIT), Roorkee. Even though the site is less well-known compared to HTB, THM, and CTFlearn, the challenges actually quite something. Something, you might never encounter before. The best thing is, the site is free for all.
 
@@ -18,3 +18,4 @@ All flags in Backdoor should be encoded to SHA-256 before submitting, the easies
 Writeup | Description
 --------|------------
 [n00b15CTF](/posts/backdoor/n00b15ctf) | A beginner level CTF in year 2015
+[n00b16CTF](/posts/backdoor/n00b16ctf) | A beginner level CTF in year 2016
