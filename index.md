@@ -29,6 +29,7 @@ Hello there, welcome to my planet. Just for your information, this page was form
 - [Backdoor](https://deskel.github.io/backdoor)
 - [Challenge Land](https://deskel.github.io/challenge-land)
 - [CTFLearn](https://deskel.github.io/ctflearn)
+- [CyberEDU](https://deskel.github.io/cyberedu)
 - [THM, TryHackMe](https://deskel.github.io/thm)
 
 ### Des's review
