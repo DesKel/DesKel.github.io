@@ -20,3 +20,4 @@ writeup | points | tags
 [old-1](/posts/webhackingkr/old-1) | 200 | Session hijacking
 [old-6](/posts/webhackingkr/old-6) | 100 | Session Hijacking, scripting
 [old-10](/posts/webhackingkr/old-10) | 250 | HTML
+[old-12](/posts/webhackingkr/old-10) | 250 | JavaScript
