@@ -17,4 +17,5 @@ Note: Currently there are 61 old challenges. Expecting new challenges coming thr
 
 writeup | points | tags
 --------|-------|-------
-[old-1] | 100 | Session hijaking
+[old-1](/posts/webhackingkr/old-1) | 200 | Session hijacking
+[old-6](/posts/webhackingkr/old-6) | 100 | Session Hijacking, scripting
