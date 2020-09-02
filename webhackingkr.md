@@ -23,3 +23,4 @@ writeup | points | tags
 [old-12](/posts/webhackingkr/old-12) | 250 | JavaScript
 [old-14](/posts/webhackingkr/old-14) | 100 | JavaScript
 [old-15](/posts/webhackingkr/old-15) | 50 | JavaScript, Linux
+[old-16](/posts/webhackingkr/old-16) | 100 | JavaScript
