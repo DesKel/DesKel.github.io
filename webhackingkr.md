@@ -18,6 +18,8 @@ Note: Currently there are 61 old challenges. Expecting new challenges coming thr
 writeup | points | tags
 --------|-------|-------
 [old-1](/posts/webhackingkr/old-1) | 200 | Session hijacking
-[old-6](/posts/webhackingkr/old-6) | 100 | Session Hijacking, scripting
+[old-6](/posts/webhackingkr/old-6) | 100 | Session Hijacking, Scripting
 [old-10](/posts/webhackingkr/old-10) | 250 | HTML
 [old-12](/posts/webhackingkr/old-12) | 250 | JavaScript
+[old-14](/posts/webhackingkr/old-14) | 100 | JavaScript
+[old-15](/posts/webhackingkr/old-15) | 50 | JavaScript, Linux
