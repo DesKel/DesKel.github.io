@@ -11,11 +11,11 @@ Hello there, welcome to my planet. Just for your information, this page was form
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webhacking.kr write-up: old-17](https://deskel.github.io/posts/webhackingkr/old-17)
+- [Webhacking.kr write-up: old-16](https://deskel.github.io/posts/webhackingkr/old-16)
+- [Webhacking.kr write-up: old-15](https://deskel.github.io/posts/webhackingkr/old-15)
+- [Webhacking.kr write-up: old-14](https://deskel.github.io/posts/webhackingkr/old-14)
 - [Webhacking.kr write-up: old-12](https://deskel.github.io/posts/webhackingkr/old-12)
-- [Webhacking.kr write-up: old-10](https://deskel.github.io/posts/webhackingkr/old-10)
-- [Webhacking.kr write-up: old-6](https://deskel.github.io/posts/webhackingkr/old-6)
-- [Webhacking.kr write-up: old-1](https://deskel.github.io/posts/webhackingkr/old-1)
-- [CyberEDU write-up: Entry](https://deskel.github.io/posts/cyberedu/entry)
 <!-- BLOG-POST-LIST:END -->
 
 ---
