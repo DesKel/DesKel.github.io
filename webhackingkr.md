@@ -32,3 +32,4 @@ writeup | points | tags
 [old-24](/posts/webhackingkr/old-24) | 100 | PHP
 [old-25](/posts/webhackingkr/old-25) | 150 | LFI, PHP
 [old-26](/posts/webhackingkr/old-26) | 100 | PHP
+[old-27](/posts/webhackingkr/old-27) | 150 | SQLi
