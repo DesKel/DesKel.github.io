@@ -29,3 +29,4 @@ writeup | points | tags
 [old-19](/posts/webhackingkr/old-19) | 150 | Session Hijacking
 [old-20](/posts/webhackingkr/old-20) | 200 | Scripting
 [old-23](/posts/webhackingkr/old-23) | 200 | XSS
+[old-24](/posts/webhackingkr/old-24) | 100 | PHP
