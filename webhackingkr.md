@@ -27,3 +27,4 @@ writeup | points | tags
 [old-17](/posts/webhackingkr/old-17) | 100 | JavaScript
 [old-18](/posts/webhackingkr/old-18) | 100 | SQL Injection
 [old-19](/posts/webhackingkr/old-19) | 150 | Session Hijacking
+[old-20](/posts/webhackingkr/old-20) | 200 | Scripting
