@@ -40,3 +40,4 @@ writeup | points | tags
 [old-39](/posts/webhackingkr/old-39) | 100 | SQLi
 [old-41](/posts/webhackingkr/old-41) | 250 | Linux
 [old-42](/posts/webhackingkr/old-42) | 200 | HTML
+[old-43](/posts/webhackingkr/old-43) | 250 | PHP
