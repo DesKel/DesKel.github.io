@@ -36,3 +36,4 @@ writeup | points | tags
 [old-32](/posts/webhackingkr/old-32) | 150 | Scripting
 [old-33](/posts/webhackingkr/old-33) | 200 | PHP
 [old-36](/posts/webhackingkr/old-36) | 200 | Linux
+[old-38](/posts/webhackingkr/old-38) | 100 | CRLF Injection
