@@ -37,3 +37,4 @@ writeup | points | tags
 [old-33](/posts/webhackingkr/old-33) | 200 | PHP
 [old-36](/posts/webhackingkr/old-36) | 200 | Linux
 [old-38](/posts/webhackingkr/old-38) | 100 | CRLF Injection
+[old-39](/posts/webhackingkr/old-39) | 100 | SQLi
