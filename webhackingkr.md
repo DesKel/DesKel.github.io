@@ -41,3 +41,4 @@ writeup | points | tags
 [old-41](/posts/webhackingkr/old-41) | 250 | Linux
 [old-42](/posts/webhackingkr/old-42) | 200 | HTML
 [old-43](/posts/webhackingkr/old-43) | 250 | PHP
+[old-47](/posts/webhackingkr/old-47) | 150 | Email Header Injection
