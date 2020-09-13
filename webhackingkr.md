@@ -44,3 +44,4 @@ writeup | points | tags
 [old-47](/posts/webhackingkr/old-47) | 150 | Email Header Injection
 [old-51](/posts/webhackingkr/old-51) | 250 | SQLi
 [old-54](/posts/webhackingkr/old-54) | 100 | XMLHTTP
+[old-58](/posts/webhackingkr/old-58) | 150 | JavaScript
