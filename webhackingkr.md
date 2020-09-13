@@ -42,3 +42,4 @@ writeup | points | tags
 [old-42](/posts/webhackingkr/old-42) | 200 | HTML
 [old-43](/posts/webhackingkr/old-43) | 250 | PHP
 [old-47](/posts/webhackingkr/old-47) | 150 | Email Header Injection
+[old-51](/posts/webhackingkr/old-51) | 250 | SQLi
