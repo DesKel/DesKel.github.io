@@ -45,3 +45,4 @@ writeup | points | tags
 [old-51](/posts/webhackingkr/old-51) | 250 | SQLi
 [old-54](/posts/webhackingkr/old-54) | 100 | XMLHTTP
 [old-58](/posts/webhackingkr/old-58) | 150 | JavaScript
+[old-61](/posts/webhackingkr/old-61) | 200 | SQLi
